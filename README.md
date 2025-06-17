@@ -8,6 +8,62 @@
 
 ---
 
+## 🏆 Results & Winners
+
+The W3PN_Hacks Berlin 2025 has concluded. After evaluation by the judges, the winning projects have been selected. Congratulations to the winning teams!
+
+Of course, here is a more concise version of the "Results & Winners" section.
+
+### 🎉 Winning Projects (7)
+
+| Track | Winner | Description |
+| :--- | :--- | :--- |
+| **Design (UI/UX)** | [OpenLavatory](/projects/openlavatory/README.md) | *Decentralized wallet connection protocol* |
+| **Censorship Resistance** | [Aside](/projects/aside/README.md) | *Ephemeral peer-to-peer chat* |
+| **Advanced Cryptography** | [canary](/projects/canary/README.md) | *Automated deadman switch* |
+| **User Onboarding** | [MagicENS](/projects/magicEns/README.md) | *Private ENS receiving addresses* |
+| **Public Goods** | [Portal](/projects/portal/README.md) | *P2P location-based chat* |
+| **Applied Encryption** | [Gnosis VeilPay](/projects/gnosis-veil-pay/README.md) | *Private noncustodial crypto card* |
+| **Privacy-First AI** | [Texcoco](/projects/kevinstubbs-texcoco/README.md) | *AI workbench for Aztec* |
+
+### 📂 List of all Submitted Projects (31)
+
+| Project | Description | Team |
+| :--- | :--- | :--- |
+| [ACTivate Groups](/projects/ACTivate/README.md) | *Decentralized private group chat* | Bálint @bosi95, József @Kexort, András @aranyia |
+| [Aside](/projects/aside/README.md) 🏅 | *Ephemeral peer-to-peer chat* | Alisher, Sasha |
+| [BlindMatch](/projects/blindmatch/README.md) | *Private dating via FHE* | Raphaël Deknop, Fabian Ferno |
+| [canary](/projects/canary/README.md) 🏅 | *Automated deadman switch* | Kieran P, Lina P, Ryan C |
+| [DeeperTruth](/projects/DeeperTruth/README.md) | *Verifiable video authenticity* | Romario Kavin |
+| [Encrypt it!](/projects/encrypt-it/README.md) | *Wallet-based encryption standard* | Timotheus, six, MarcelJay, James, Mörk |
+| [Gnosis VeilPay](/projects/gnosis-veil-pay/README.md) 🏅| *Private noncustodial crypto card* | Sebastian, Druv, Mohammed |
+| [goblow.it](/projects/go-blow-it/README.md) | *Anonymous Telegram whistleblowing*| Coco the dog, Manu, Peter, Paulo |
+| [HELIX](/projects/helix/README.md) | *Private cross-border dividends* | Julian Nalenz, Yvanik |
+| [Hopline](/projects/hopline/README.md) | *User-friendly decentralized VPN* | tolbrino, mjadach, ilge ustun, 1uiz |
+| [Jedi](/projects/jedi/README.md) | *Private AI business co-founder* | Gabriel Antony Xaviour |
+| [LiveBlur](/projects/LiveBlur/README.md) | *Real-time video face blurring* | Agustin Schiariti |
+| [MagicENS](/projects/magicEns/README.md) 🏅 | *Private ENS receiving addresses* | zkfriendly, sembrestels, FaezehShakouri |
+| [Midnight Vote](/projects/midnight-vote/README.md) | *Anonymous DAO voting platform* | Armando Medina |
+| [OpenLavatory](/projects/openlavatory/README.md) 🏅 | *Decentralized wallet connection protocol* | luc.eth, v1rtl.eth, Daniel |
+| [PLottoPGF](/projects/coolProjectName/README.md) | *Private lottery for PGF* | Danish, nodestarQ |
+| [Portal](/projects/portal/README.md) 🏅 | *P2P location-based chat* | sunsakis, belakm, yellowBirdy, weboko |
+| [Preserving Consumer Privacy in 5G](/projects/Preserving-Consumer-Privacy-In-5G/README.md) | *ZK-based 5G link authentication* | Dungeon, Applied Engineering |
+| [Private Stargate Finance](/projects/private-stargate-finance/README.md) | *Encrypted cross-chain finance* | Ben Hooper |
+| [PrivateRPC](/projects/private-NYMRPC/README.md) | *Private MetaMask RPC middleware* | Erik Valle, Artur Vargas |
+| [PrivacyPal](/projects/privacy-pal/README.md) | *Local privacy policy tracker* | Daniel Silberschmidt, ChatGPT |
+| [ProofLeak](/projects/ProofLeak/README.md) | *ZK-verified whistleblowing platform*| steelfeel.eth, 0xxdana.eth |
+| [psuedo-grant-analysis](/projects/psuedo-grant-analysis/README.md) | *Private grant funding analysis* | Rashmi V Abbigeri |
+| [ShadowPay](/projects/shadowpay/README.md) | *Confidential on-chain payroll* | Levan Ilashvili, Guy at the Coffee Stand |
+| [SNPools](/projects/SNPools/README.md) | *Encrypted genetic data marketplace*| Khaled, Bear Mo, Kevo |
+| [SocialRecovery4Everyone](/projects/SocialRecovery4Everyone/README.md) | *Biometric-based social recovery* | S001.28 (signal handle) |
+| [Squaredance Captable](/projects/squaredance/README.md) | *Compliant anonymous DAO framework*| Artiom, Evgeny, Elena, Vika, Ben |
+| [StealthGrant](/projects/stealth-grants/README.md) | *Private quadratic funding platform*| Leo Franklin |
+| [Texcoco](/projects/kevinstubbs-texcoco/README.md) 🏅 | *AI workbench for Aztec* | Kevin Stubbs |
+| [Zero-Sig](/projects/zero-sig/README.md) | *Private multisignature solution* | Frank & Drone |
+
+
+---
+
 ## 🚀 How to Submit
 
 1. **Fork this repository**
