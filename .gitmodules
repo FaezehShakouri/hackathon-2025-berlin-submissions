@@ -1,3 +1,0 @@
-[submodule "projects/go-blow-it/bot/tlsn"]
-	path = projects/go-blow-it/bot/tlsn
-	url = git@github.com:petermlyon/tlsn.git
