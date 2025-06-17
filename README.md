@@ -18,13 +18,13 @@ Of course, here is a more concise version of the "Results & Winners" section.
 
 | Track | Winner | Description |
 | :--- | :--- | :--- |
-| **Design (UI/UX)** | [OpenLavatory](/projects/openlavatory/README.md) | *Decentralized wallet connection protocol* |
-| **Censorship Resistance** | [Aside](/projects/aside/README.md) | *Ephemeral peer-to-peer chat* |
 | **Advanced Cryptography** | [canary](/projects/canary/README.md) | *Automated deadman switch* |
-| **User Onboarding** | [MagicENS](/projects/magicEns/README.md) | *Private ENS receiving addresses* |
-| **Public Goods** | [Portal](/projects/portal/README.md) | *P2P location-based chat* |
 | **Applied Encryption** | [Gnosis VeilPay](/projects/gnosis-veil-pay/README.md) | *Private noncustodial crypto card* |
+| **Censorship Resistance** | [Aside](/projects/aside/README.md) | *Ephemeral peer-to-peer chat* |
 | **Privacy-First AI** | [Texcoco](/projects/kevinstubbs-texcoco/README.md) | *AI workbench for Aztec* |
+| **Public Goods** | [Portal](/projects/portal/README.md) | *P2P location-based chat* |
+| **Design (UI/UX)** | [OpenLavatory](/projects/openlavatory/README.md) | *Decentralized wallet connection protocol* |
+| **User Onboarding** | [MagicENS](/projects/magicEns/README.md) | *Private ENS receiving addresses* |
 
 ### 📂 List of all Submitted Projects (31)
 
