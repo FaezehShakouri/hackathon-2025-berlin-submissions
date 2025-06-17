@@ -26,7 +26,7 @@ Of course, here is a more concise version of the "Results & Winners" section.
 | **Design (UI/UX)** | [OpenLavatory](/projects/openlavatory/README.md) | *Decentralized wallet connection protocol* |
 | **User Onboarding** | [MagicENS](/projects/magicEns/README.md) | *Private ENS receiving addresses* |
 
-### 📂 List of all Submitted Projects (31)
+### 📂 List of all Submitted Projects (32)
 
 | Project | Description | Team |
 | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ Of course, here is a more concise version of the "Results & Winners" section.
 | [StealthGrant](/projects/stealth-grants/README.md) | *Private quadratic funding platform*| Leo Franklin |
 | [Texcoco](/projects/kevinstubbs-texcoco/README.md) 🏅 | *AI workbench for Aztec* | Kevin Stubbs |
 | [Zero-Sig](/projects/zero-sig/README.md) | *Private multisignature solution* | Frank & Drone |
-
+| [zkTender](/projects/zkTender/README.md) | *Private AI-powered government tenders* | mell |
 
 ---
 
