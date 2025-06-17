@@ -12,8 +12,6 @@
 
 The W3PN_Hacks Berlin 2025 has concluded. After evaluation by the judges, the winning projects have been selected. Congratulations to the winning teams!
 
-Of course, here is a more concise version of the "Results & Winners" section.
-
 ### 🎉 Winning Projects (7)
 
 | Track | Winner | Description |
