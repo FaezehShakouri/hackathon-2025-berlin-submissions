@@ -1,0 +1,4 @@
+[package]
+name = "payroll"
+type = "bin"
+authors = [""]

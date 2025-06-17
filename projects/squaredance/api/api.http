@@ -1,0 +1,36 @@
+To fully test your API, add HTTP requests for all routes in `api.http`. Here’s an updated version including all endpoints and example bodies:
+
+```http
+### Create organization
+POST http://localhost:3000/organization
+Content-Type: application/json
+
+{
+  "name": "TestOrg",
+  "adminAddress": "0x67d269191c92Caf3cD7723F116c85e6E9bf55933",
+  "initialShares": 1000
+}
+
+### Add contributor
+POST http://localhost:3000/contributor
+Content-Type: application/json
+
+{
+  "contributorAddress": "0x0E801D84Fa97b50751Dbf25036d067dCf18858bF",
+  "encryptedCID": "bafybeihdwdcexamplecid"
+}
+
+### Issue shares
+POST http://localhost:3000/shares
+Content-Type: application/json
+
+{
+  "adminAddress": "0x67d269191c92Caf3cD7723F116c85e6E9bf55933",
+  "contributorAddress": "0x0E801D84Fa97b50751Dbf25036d067dCf18858bF",
+  "amount": 100,
+  "encryptedCID": "bafybeihdwdcexamplecid"
+}
+
+### Get shares for address
+GET http://localhost:3000/shares/0x0E801D84Fa97b50751Dbf25036d067dCf18858bF?passphrase=yourPassphrase
+```

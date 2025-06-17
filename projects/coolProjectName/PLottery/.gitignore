@@ -1,0 +1,5 @@
+#Compile it yourself (O.O)
+/src/artifacts
+/target
+codegenCache.json
+
